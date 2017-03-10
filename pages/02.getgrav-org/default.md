@@ -18,14 +18,6 @@ hide_git_repo_link: false
 [![ABOUT](_06.png)](https://getgrav.org/about/)
 [![LEARN](_07.png)](https://learn.getgrav.org/)
 
-
-[]() 
-- [](https://getgrav.org/) 
-- [](https://getgrav.org/) 
-- [](https://getgrav.org/) 
-- [](https://getgrav.org/) 
-- [](http://learn.getgrav.org/)
-
 ---
 
 ## BUILD FASTER WEBSITES
