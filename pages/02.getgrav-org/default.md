@@ -19,3 +19,25 @@ hide_git_repo_link: false
 ### Grav is a modern open source flat-file CMS
 
 <a class="button button-outline button-fancy2" href="/downloads">Get Grav</a>
+
+STABLE VERSION 1.1.17 NEW! UPDATED 3 WEEKS AGO • CHANGELOG
+
+---
+
+- [WHY GRAV](https://getgrav.org/#why_grav) 
+- [EASY](https://getgrav.org/#easy) 
+- [DEVELOPERS](https://getgrav.org/#developers) 
+- [FEATURES](https://getgrav.org/#features) 
+- [PROS](https://getgrav.org/#pros) 
+- [COMMUNITY](https://getgrav.org/#community) 
+- [LIMITLESS](https://getgrav.org/#limitless) 
+- [BUILT](https://getgrav.org/#built)
+
+---
+
+## WHY CHOOSE GRAV?
+
+![](best-open-source-cms.png)
+
+- Grav is an award winning CMS platform
+- Voted "Best Open Source CMS" in 2016
