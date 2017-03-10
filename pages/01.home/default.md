@@ -3,7 +3,7 @@ title: Home
 hide_git_repo_link: false
 ---
 
-## Open Educational Resources (OER)
+## Open Educational Resources (OERU)
 
 ![](OER-banner-2.png)  
 
