@@ -11,7 +11,3 @@ Grav is a Fast, Simple, and Flexible file-based Web-platform. There is Zero
 — [Discover what Grav is all about and the core-concepts behind it](/learn-getgrav-org)
 
 ![](getgrav-org.png)
-
-{assets:css order:1}
-//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.9/components/button.css
-{/assets}
