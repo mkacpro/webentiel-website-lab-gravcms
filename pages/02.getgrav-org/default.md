@@ -6,6 +6,7 @@ hide_git_repo_link: false
 # GRAV - Modern open source flat-file CMS
 
 <div class="ui three column grid stackable doubling">
+
   <div class="column">
     <div class="ui fluid card">
       <div class="image">
@@ -16,6 +17,7 @@ hide_git_repo_link: false
       </div>
     </div>
   </div>
+  
   <div class="column">
     <div class="ui fluid card">
       <div class="image">
@@ -26,6 +28,7 @@ hide_git_repo_link: false
       </div>
     </div>
   </div>
+  
   <div class="column">
     <div class="ui fluid card">
       <div class="image">
@@ -36,6 +39,18 @@ hide_git_repo_link: false
       </div>
     </div>
   </div>
+  
+  <div class="column">
+    <div class="ui fluid card">
+      <div class="image">
+        <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/_01.png">
+      </div>
+      <div class="content">
+        <a class="header">Build Faster Websites</a>
+      </div>
+    </div>
+  </div>
+  
 </div>
 
 [![TOUR](_01.png)](https://getgrav.org/)
