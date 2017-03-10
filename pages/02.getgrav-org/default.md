@@ -10,7 +10,7 @@ hide_git_repo_link: false
   <div class="column">
     <div class="ui fluid card">
       <div class="image">
-        <a href="http://www.dog.com" target="_parent"><img src="_01.png"></a>
+        <a href="http://www.dog.com" target="_parent"><img src="_01.png/"></a>
       </div>
       <div class="content">
         <a class="header" href="http://www.dog.com">Build Faster Websites</a>
