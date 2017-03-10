@@ -9,7 +9,7 @@ hide_git_repo_link: false
 
 ### GRAV ?
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi in egestas erat. Aliquam eget velit et nisl faucibus imperdiet ut in ligula. Quisque pharetra eros erat, in consectetur arcu sodales et. In eleifend, magna id auctor mattis, dolor mi iaculis ante, sed ullamcorper nunc dolor eu nisi. Praesent sed ipsum rutrum, interdum eros quis, malesuada tellus. Vivamus orci dui, pretium eu leo eu, condimentum semper libero. Quisque interdum odio ante, quis hendrerit nulla tempor at. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla laoreet pellentesque ligula eget feugiat. Morbi lorem purus, consequat sit amet quam id, tempus finibus mauris. Morbi lacinia massa eget ultrices feugiat. Aliquam tristique, diam ac porttitor egestas, felis dolor pretium augue, ac vulputate dui libero et ipsum. Aliquam pulvinar enim vel velit dictum, a ultrices velit commodo. Proin venenatis vel erat eu aliquet. Praesent ullamcorper sagittis libero, eget consectetur nisl. 
-— [Lorem Ipsum](http://fr.wikipedia.org)
+— [Discover what Grav is all about and the core-concepts behind it](https://learn.getgrav.org/)
 
 ### OER Definitions
 **[The William and Flora Hewlett Foundation](http://www.hewlett.org/programs/education-program/open-educational-resources)**  
