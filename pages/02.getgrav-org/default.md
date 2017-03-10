@@ -7,6 +7,100 @@ hide_git_repo_link: false
 //cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.9/components/button.css
 {/assets}
 
+Button
+ A button indicates a possible user action
+11 Themes  Download
+
+New and Awesome Tool: See How Your Visitors are Really Using Your Site
+ads via Carbon
+Button
+
+Types
+Button
+Emphasis
+Animated
+Labeled
+Icon
+Labeled Icon
+Basic
+Inverted
+Groups
+Content
+States
+Variations
+Group Variations
+Types
+
+Button
+A standard button
+
+Follow
+Although any tag can be used for a button, it will only be keyboard focusable if you use a <button> tag or you add the property tabindex="0". Keyboard accessible buttons will preserve focus styles after click, which may be visually jarring.
+Button  Focusable
+Emphasis
+A button can be formatted to show different levels of emphasis
+
+Setting your brand colors to primary and secondary color variables in site.variables will allow you to use your color theming for UI elements
+Save   Discard
+Okay   Cancel
+Animated
+A button can animate to show hidden content
+
+The button will be automatically sized according to the visible content size. Make sure there is enough room for the hidden content to show
+Next
+ Shop
+ 
+Sign-up for a Pro account
+$12.99 a month
+Labeled
+A button can appear alongside a label
+
+ Like
+2,048
+ 
+2,048
+ Like
+ 
+1,048
+ Like
+1,048
+ Forks
+1,048
+Example
+<div class="ui labeled button" tabindex="0">
+  <div class="ui red button">
+    <i class="heart icon"></i> Like
+  </div>
+  <a class="ui basic red left pointing label">
+    1,048
+  </a>
+</div>
+<div class="ui labeled button" tabindex="0">
+  <div class="ui basic blue button">
+    <i class="fork icon"></i> Forks
+  </div>
+  <a class="ui basic left pointing blue label">
+    1,048
+  </a>
+</div>
+Icon
+A button can have only an icon
+
+
+Labeled Icon
+A button can use an icon as a label
+
+Pause   Next
+Basic
+A basic button is less pronounced
+
+ Add Friend
+ PrimarySecondaryPositiveNegativeExample
+<button class="ui primary basic button">Primary</button>
+<button class="ui secondary basic button">Secondary</button>
+<button class="ui positive basic button">Positive</button>
+<button class="ui negative basic button">Negative</button>
+
 # GRAV - Modern open source flat-file CMS
 
 - [TOUR](https://getgrav.org/) 
