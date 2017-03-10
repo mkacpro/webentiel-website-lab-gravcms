@@ -1,5 +1,5 @@
 ---
-title: 'getgrav.org 2'
+title: 'getgrav.org / TOUR'
 hide_git_repo_link: false
 ---
 
