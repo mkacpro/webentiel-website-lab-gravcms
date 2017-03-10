@@ -84,8 +84,3 @@ Grav has a built in package manager with one-click install for plugins
 
 ![](006-themes.png)
 You can also install a wide range of modern themes with one-click
-
-
-{assets:css order:1}
-//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.9/components/button.css
-{/assets}
