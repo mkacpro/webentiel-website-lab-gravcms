@@ -9,7 +9,7 @@ hide_git_repo_link: false
   <div class="column">
     <div class="ui fluid card">
       <div class="image">
-        <img src="/images/avatar/large/daniel.jpg">
+        <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/_01.png">
       </div>
       <div class="content">
         <a class="header">Daniel Louise</a>
@@ -19,7 +19,7 @@ hide_git_repo_link: false
   <div class="column">
     <div class="ui fluid card">
       <div class="image">
-        <img src="/images/avatar/large/helen.jpg">
+        <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/_02.png">
       </div>
       <div class="content">
         <a class="header">Helen Troy</a>
@@ -29,7 +29,7 @@ hide_git_repo_link: false
   <div class="column">
     <div class="ui fluid card">
       <div class="image">
-        <img src="/images/avatar/large/elliot.jpg">
+        <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/_03.png">
       </div>
       <div class="content">
         <a class="header">Elliot Fu</a>
