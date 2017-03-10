@@ -7,7 +7,7 @@ hide_git_repo_link: false
 
 <div class="ui three column grid stackable doubling">
 
-  <div class="column">
+  <a class="column" href="http://www.dog.com">
     <div class="ui fluid card">
       <div class="image">
         <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/_01.png">
@@ -16,7 +16,7 @@ hide_git_repo_link: false
         <a class="header">Build Faster Websites</a>
       </div>
     </div>
-  </div>
+  </a>
   
   <div class="column">
     <div class="ui fluid card">
