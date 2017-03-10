@@ -3,10 +3,6 @@ title: getgrav.org
 hide_git_repo_link: false
 ---
 
-{assets:css order:1}
-//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.9/components/button.css
-{/assets}
-
 <button class="ui primary basic button">Primary</button>
 <button class="ui secondary basic button">Secondary</button>
 <button class="ui positive basic button">Positive</button>
@@ -90,4 +86,6 @@ Grav has a built in package manager with one-click install for plugins
 You can also install a wide range of modern themes with one-click
 
 
-
+{assets:css order:1}
+//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.9/components/button.css
+{/assets}
