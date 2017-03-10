@@ -89,6 +89,6 @@ You can also install a wide range of modern themes with one-click
 //cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.9/semantic.css
 {/assets}  
     
-{assets:js order:10}
+{assets:js order:1}
 //cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.9/semantic.js
 {/assets}
