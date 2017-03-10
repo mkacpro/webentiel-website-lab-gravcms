@@ -10,14 +10,21 @@ hide_git_repo_link: false
 
 # GRAV - Modern open source flat-file CMS
 
+[![TOUR](_01.png)](https://getgrav.org/)
+[![FEATURES](_02.png)](https://getgrav.org/features/)
+[![BLOG](_03.png)](https://getgrav.org/blog/)
+[![FORUM](_04.png)](https://getgrav.org/forum/)
+[![DOWNLOADS](_05.png)](https://getgrav.org/downloads/)
+[![ABOUT](_06.png)](https://getgrav.org/about/)
+[![LEARN](_07.png)](https://learn.getgrav.org/)
 
-- [![TOUR](_01.png)](https://getgrav.org/) 
-- [FEATURES](https://getgrav.org/features) 
-- [BLOG](https://getgrav.org/blog) 
-- [FORUM](https://getgrav.org/forum) 
-- [DOWNLOADS](https://getgrav.org/downloads) 
-- [ABOUT](https://getgrav.org/about) 
-- [LEARN](http://learn.getgrav.org/)
+
+[]() 
+- [](https://getgrav.org/) 
+- [](https://getgrav.org/) 
+- [](https://getgrav.org/) 
+- [](https://getgrav.org/) 
+- [](http://learn.getgrav.org/)
 
 ---
 
