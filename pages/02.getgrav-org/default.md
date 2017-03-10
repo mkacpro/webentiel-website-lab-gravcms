@@ -7,16 +7,16 @@ hide_git_repo_link: false
 
 <div class="ui three column grid stackable doubling">
 
-  <a class="column" href="http://www.dog.com">
+  <div class="column">
     <div class="ui fluid card">
       <div class="image">
-        <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/_01.png">
+        <a href="http://www.dog.com"><img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/_01.png"></a>
       </div>
       <div class="content">
-        <a class="header">Build Faster Websites</a>
+        <a  href="http://www.dog.com" class="header">Build Faster Websites</a>
       </div>
     </div>
-  </a>
+  </div>
   
   <div class="column">
     <div class="ui fluid card">
