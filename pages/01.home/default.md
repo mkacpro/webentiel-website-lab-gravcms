@@ -32,6 +32,7 @@ The underlying architecture of Grav is built using well established and _best-i
 - [Symfony Console](http://symfony.com/doc/current/components/console/introduction.html): for CLI interface
 - [Gregwar Image Library](https://github.com/Gregwar/Image): for dynamic image manipulation
 
+---
 
 ### Grav's Place in the Universe
 
@@ -47,6 +48,8 @@ Grav tackles the problem differently. It focuses primarily on your content, and 
 This allows simple plugins to quickly and easily add powerful functionality. Using Grav also leads to a rapid development environment with an installation process that takes seconds, including a straightforward content creation method with a minimal learning curve. This puts Grav in a position of being friendly to the designer, the developer and the end user.
 
 To get a basic site up-and-running requires very little Web development experience. Yet, if you dig a little deeper, you will discover that there is very little Grav cannot accomplish.
+
+---
 
 **[The William and Flora Hewlett Foundation](http://www.hewlett.org/programs/education-program/open-educational-resources)**  
 "OER are teaching, learning, and research resources that reside in the public domain or have been released under an intellectual property license that permits their free use and re-purposing by others. Open educational resources include full courses, course materials, modules, textbooks, streaming videos, tests, software, and any other tools, materials, or techniques used to support access to knowledge." [1]
