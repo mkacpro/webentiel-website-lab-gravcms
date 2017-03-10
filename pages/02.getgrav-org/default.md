@@ -53,3 +53,11 @@ Grav is Open Source, and all the code is available on GitHub.com
 
 
 ---
+
+## SUPER EASY TO USE
+
+### The Grav admin plugin provides a simple and intuitive interface to make configuration and content creation easy and enjoyable.
+
+<a href="/downloads/plugins" class="button button-solid button-fancy">
+Get Admin Plugin
+</a>
