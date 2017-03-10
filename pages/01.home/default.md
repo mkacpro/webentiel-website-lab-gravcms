@@ -3,9 +3,9 @@ title: Home
 hide_git_repo_link: false
 ---
 
-## Open Educational Resources (OER)
+## GRAV - Modern open source flat-file CMS
 
-![](OER-banner-2.png)  
+![](getgrav-org.png)
 
 ### What is OER?
 Open educational resources (OER) are free and openly licensed educational materials that can be used for teaching, learning, research, and other purposes.
