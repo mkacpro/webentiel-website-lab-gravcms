@@ -17,4 +17,5 @@ hide_git_repo_link: false
 
 ## BUILD FASTER WEBSITES
 ### Grav is a modern open source flat-file CMS
-GET GRAV
+
+<a class="button button-outline button-fancy2" href="/downloads">Get Grav</a>
