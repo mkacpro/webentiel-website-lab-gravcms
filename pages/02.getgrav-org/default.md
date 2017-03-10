@@ -13,7 +13,7 @@ hide_git_repo_link: false
         <a href="http://www.dog.com"><img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/_01.png"></a>
       </div>
       <div class="content">
-        <a  href="http://www.dog.com" class="header">Build Faster Websites</a>
+        <a class="header" href="http://www.dog.com">Build Faster Websites</a>
       </div>
     </div>
   </div>
