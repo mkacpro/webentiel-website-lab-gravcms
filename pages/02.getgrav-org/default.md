@@ -8,80 +8,80 @@ hide_git_repo_link: false
 <div class="ui three column grid stackable doubling">
 
   <div class="column">
-    <div class="ui fluid card">
+    <a class="ui fluid card" href="http://www.dog.com">
       <div class="image">
         <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/_01.png">
       </div>
       <div class="content">
         <a class="header">Build Faster Websites</a>
       </div>
-    </div>
+    </a>
   </div>
   
   <div class="column">
-    <div class="ui fluid card">
+    <a class="ui fluid card" href="http://www.dog.com">
       <div class="image">
         <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/_02.png">
       </div>
       <div class="content">
         <a class="header">Grav Features</a>
       </div>
-    </div>
+    </a>
   </div>
   
   <div class="column">
-    <div class="ui fluid card">
+    <a class="ui fluid card" href="http://www.dog.com">
       <div class="image">
         <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/_03.png">
       </div>
       <div class="content">
         <a class="header">Developement Blog</a>
       </div>
-    </div>
+    </a>
   </div>
   
   <div class="column">
-    <div class="ui fluid card">
+    <a class="ui fluid card" href="http://www.dog.com">
       <div class="image">
         <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/_04.png">
       </div>
       <div class="content">
         <a class="header">Lorem ipsum</a>
       </div>
-    </div>
+    </a>
   </div>
   
   <div class="column">
-    <div class="ui fluid card">
+    <a class="ui fluid card" href="http://www.dog.com">
       <div class="image">
         <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/_05.png">
       </div>
       <div class="content">
         <a class="header">Lorem ipsum</a>
       </div>
-    </div>
+    </a>
   </div>
   
   <div class="column">
-    <div class="ui fluid card">
+    <a class="ui fluid card" href="http://www.dog.com">
       <div class="image">
         <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/_06.png">
       </div>
       <div class="content">
         <a class="header">Lorem ipsum</a>
       </div>
-    </div>
+    </a>
   </div>
   
   <div class="column">
-    <div class="ui fluid card">
+    <a class="ui fluid card" href="http://www.dog.com">
       <div class="image">
         <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/_07.png">
       </div>
       <div class="content">
         <a class="header">Lorem ipsum</a>
       </div>
-    </div>
+    </a>
   </div>
   
 </div>
