@@ -22,7 +22,7 @@ hide_git_repo_link: false
         <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/_02.png">
       </div>
       <div class="content">
-        <a class="header">Helen Troy</a>
+        <a class="header">Grav Features</a>
       </div>
     </div>
   </div>
@@ -32,7 +32,7 @@ hide_git_repo_link: false
         <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/_03.png">
       </div>
       <div class="content">
-        <a class="header">Elliot Fu</a>
+        <a class="header">Developement Blog</a>
       </div>
     </div>
   </div>
