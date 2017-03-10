@@ -13,7 +13,7 @@ hide_git_repo_link: false
         <a href="/grav/getgrav-org" target="_parent"><img src="/grav/user/pages/02.getgrav-org/_02.png"></a>
       </div>
       <div class="content">
-        <a class="header" href="http://www.dog.com">Build Faster Websites</a>
+        <a class="header" href="/grav/getgrav-org">Build Faster Websites</a>
       </div>
     </div>
   </div>
