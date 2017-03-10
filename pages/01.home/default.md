@@ -10,11 +10,14 @@ hide_git_repo_link: false
 ### What is Grav ?
 
 Grav is a Fast, Simple, and Flexible file-based Web-platform. There is Zero installation required. Just extract the ZIP archive, and you are already up and running. Although Grav follows principles similar to other flat-file CMS platforms, it has a different design philosophy than most.
-
 — [Discover what Grav is all about and the core-concepts behind it](https://learn.getgrav.org/)
+
+---
 
 ### What the name "Grav" means ?
 The name Grav is just a shortened version of the word Gravity. The shared name space of our platform and a movie starring Sandra Bullock is pure coincidence! More importantly, gravity is also a very important physical principle that describes the forces of attraction between objects. Frankly, the name was chosen as a temporary "codename" for the project and it just stuck.
+
+---
 
 ### How is Grav built ?
 The underlying architecture of Grav is built using well established and _best-in-class_ technologies. This is to ensure that Grav is simple to use and easy to extend. Some of these key technologies include:
