@@ -10,7 +10,7 @@ hide_git_repo_link: false
   <div class="column">
     <div class="ui fluid card">
       <div class="image">
-        <a href="/grav/getgrav-org" target="_parent"><img src="/grav/user/pages/02.getgrav-org/_01.png"></a>
+        <a href="/grav/getgrav-org-tour" target="_parent"><img src="/grav/user/pages/02.getgrav-org/_01.png"></a>
       </div>
       <div class="content">
         <a class="header" href="/grav/getgrav-org">Build Faster Websites</a>
