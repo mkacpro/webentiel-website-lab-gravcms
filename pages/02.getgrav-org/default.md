@@ -12,7 +12,7 @@ hide_git_repo_link: false
         <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/_01.png">
       </div>
       <div class="content">
-        <a class="header">Daniel Louise</a>
+        <a class="header">Why choose Grav ?</a>
       </div>
     </div>
   </div>
