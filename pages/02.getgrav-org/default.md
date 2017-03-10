@@ -13,4 +13,8 @@ hide_git_repo_link: false
 - [ABOUT](https://getgrav.org/about) 
 - [LEARN](http://learn.getgrav.org/)
 
-### BUILD FASTER WEBSITES
+---
+
+## BUILD FASTER WEBSITES
+### Grav is a modern open source flat-file CMS
+GET GRAV
