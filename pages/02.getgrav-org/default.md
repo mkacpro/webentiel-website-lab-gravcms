@@ -42,4 +42,14 @@ STABLE VERSION 1.1.17 NEW! UPDATED 3 WEEKS AGO • CHANGELOG
 - Grav is an award winning CMS platform
 - Voted "Best Open Source CMS" in 2016
 
+![](fast.png)
+Performance is not just an afterthought, we baked it in from the start*
+
+![](extensible.png)
+Grav has a powerful API and sophisticated Package Manager to make it super flexible
+
+![](open-source.png)
+Grav is Open Source, and all the code is available on GitHub.com
+
+
 ---
