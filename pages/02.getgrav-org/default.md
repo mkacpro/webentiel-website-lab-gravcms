@@ -5,7 +5,7 @@ hide_git_repo_link: false
 
 # GRAV - Modern open source flat-file CMS
 
-<div class="ui three column grid">
+<div class="ui three column grid stackable doubling">
   <div class="column">
     <div class="ui fluid card">
       <div class="image">
