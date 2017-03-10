@@ -61,3 +61,24 @@ Grav is Open Source, and all the code is available on GitHub.com
 <a href="/downloads/plugins" class="button button-solid button-fancy">
 Get Admin Plugin
 </a>
+
+![](001-dashboard.png)
+The Grav Admin dashboard provides a quick glance at your site state 
+
+![](002-config.png)
+Easily modify Grav's flexible configuration settings with its advanced forms
+
+![](003-editpage.png)
+Editing content is a breeze with Grav's powerful markdown editor
+
+![](004-user.png)
+Changing your administrator information is quick and easy
+
+![](005-plugins.png)
+Grav has a built in package manager with one-click install for plugins
+
+![](006-themes.png)
+You can also install a wide range of modern themes with one-click
+
+
+
