@@ -43,7 +43,40 @@ hide_git_repo_link: false
   <div class="column">
     <div class="ui fluid card">
       <div class="image">
-        <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/_01.png">
+        <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/_04.png">
+      </div>
+      <div class="content">
+        <a class="header">Lorem ipsum</a>
+      </div>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="ui fluid card">
+      <div class="image">
+        <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/_05.png">
+      </div>
+      <div class="content">
+        <a class="header">Lorem ipsum</a>
+      </div>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="ui fluid card">
+      <div class="image">
+        <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/_06.png">
+      </div>
+      <div class="content">
+        <a class="header">Lorem ipsum</a>
+      </div>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="ui fluid card">
+      <div class="image">
+        <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/_07.png">
       </div>
       <div class="content">
         <a class="header">Lorem ipsum</a>
