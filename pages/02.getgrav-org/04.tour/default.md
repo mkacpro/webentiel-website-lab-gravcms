@@ -199,6 +199,7 @@ You can also install a wide range of modern themes with one-click
 {/assets}
 
 {assets:inline_css order:2}
+.abgc01 {background-color: #959595;}
 .abgc01 {background-color: #2A816D;}
 .abgc02 {background-color: #439A86;}
 .abgc11 {background-color: #055442;}
