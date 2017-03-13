@@ -5,6 +5,9 @@ hide_git_repo_link: false
 
 # GRAV - Modern open source flat-file CMS
 
+![](_01.png)
+
+
 <div class="ui link cards">
 
   <div class="card">
