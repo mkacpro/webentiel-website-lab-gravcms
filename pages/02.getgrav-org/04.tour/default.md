@@ -16,11 +16,11 @@ hide_git_repo_link: false
   <div class="content">
   
     <div class="header">
-    Cute Dog
+    TOUR
     </div>
     
     <div class="meta">
-      <span class="category">TOUR</span>
+      <span class="category">Grav / Tour</span>
     </div>
      
     <div class="description">
