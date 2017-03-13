@@ -14,19 +14,19 @@ hide_git_repo_link: false
 <div class="image"><img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa02-grav-features.png"></div><div class="content"><div class="header">FEATURES</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
 
 <a class="ui card" href="http://lab.webentiel.com/grav">
-<div class="image"><img class="abgc00" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa03-grav-blog.png"></div><div class="content"><div class="header">BLOG</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
+<div class="image"><img class="abgc23" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa03-grav-blog.png"></div><div class="content"><div class="header">BLOG</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
 
 <a class="ui card" href="http://lab.webentiel.com/grav">
-<div class="image"><img class="abgc00" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa04-grav-forum.png"></div><div class="content"><div class="header">FORUM</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
+<div class="image"><img class="abgc23" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa04-grav-forum.png"></div><div class="content"><div class="header">FORUM</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
 
 <a class="ui card" href="http://lab.webentiel.com/grav">
-<div class="image"><img class="abgc00" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa05-grav-downloads.png"></div><div class="content"><div class="header">DOWNLOADS</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
+<div class="image"><img class="abgc23" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa05-grav-downloads.png"></div><div class="content"><div class="header">DOWNLOADS</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
 
 <a class="ui card" href="http://lab.webentiel.com/grav">
-<div class="image"><img class="abgc00" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa06-grav-about.png"></div><div class="content"><div class="header">ABOUT</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
+<div class="image"><img class="abgc23" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa06-grav-about.png"></div><div class="content"><div class="header">ABOUT</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
 
 <a class="ui card" href="http://lab.webentiel.com/grav">
-<div class="image"><img class="abgc00" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa07-grav-learn.png"></div><div class="content"><div class="header">LEARN</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
+<div class="image"><img class="abgc23" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa07-grav-learn.png"></div><div class="content"><div class="header">LEARN</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
 
 </div>
 
