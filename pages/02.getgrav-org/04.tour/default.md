@@ -6,6 +6,22 @@ hide_git_repo_link: false
 # GRAV - Modern open source flat-file CMS
 
 <div class="ui six doubling cards">
+
+  <div class="card">
+    <div class="image">
+      <img class="abgc01" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa01-grav-tour.png">
+    </div>
+    <div class="content">
+      <div class="header">TOUR</div>
+      <div class="meta">
+        <a>Friends</a>
+      </div>
+      <div class="description">
+        Matthew is an interior designer living in New York.
+      </div>
+    </div>
+  </div>
+  
   <div class="card">
     <div class="image">
       <img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa00-grav-default.png">
@@ -14,11 +30,6 @@ hide_git_repo_link: false
   <div class="card">
     <div class="image">
       <img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa00-grav-default.png">
-    </div>
-  </div>
-  <div class="card">
-    <div class="image">
-      <img src="/images/avatar/large/jenny.jpg">
     </div>
   </div>
   <div class="card">
