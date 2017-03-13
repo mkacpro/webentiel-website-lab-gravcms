@@ -5,7 +5,7 @@ hide_git_repo_link: false
 
 # GRAV - Modern open source flat-file CMS
 
-<div class="ui five link stackable doubling cards">
+<div class="ui six link stackable doubling cards">
 
   <div class="card">
     <div class="image">
