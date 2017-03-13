@@ -33,7 +33,7 @@ hide_git_repo_link: false
   
   <div class="card">
     <div class="image">
-      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/molly.png">
+      <img class="abgc1" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa02-grav-features.png">
     </div>
     <div class="content">
       <div class="header">FEATURES</div>
