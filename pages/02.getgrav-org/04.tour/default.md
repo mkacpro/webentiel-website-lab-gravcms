@@ -8,8 +8,8 @@ hide_git_repo_link: false
 <div class="ui link cards">
 
   <div class="card">
-    <div class="image">
-      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/matthew.png">
+    <div class="image a-bgc1">
+      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/grav-tour-white_01">
     </div>
     <div class="content">
       <div class="header">TOUR</div>
@@ -343,4 +343,8 @@ You can also install a wide range of modern themes with one-click
     
 {assets:js order:1}
 //cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.9/semantic.js
+{/assets}
+
+{assets:inline_css}
+.a-bgc1 {color: background-color: rgb(153,102,153);}
 {/assets}
