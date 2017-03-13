@@ -28,13 +28,6 @@ hide_git_repo_link: false
     </div>
    
   </div>
-  
-  <div class="extra content">
-    <div class="right floated author">
-      <img class="ui avatar image" src="/images/avatar/small/matt.jpg"> Matt
-    </div>
-  </div>
-  
 </a>
 
 
