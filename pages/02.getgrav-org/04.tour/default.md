@@ -5,6 +5,44 @@ hide_git_repo_link: false
 
 # GRAV - Modern open source flat-file CMS
 
+<div class="ui six doubling cards">
+  <div class="card">
+    <div class="image">
+      <img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa00-grav-default.png">
+    </div>
+  </div>
+  <div class="card">
+    <div class="image">
+      <img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa00-grav-default.png">
+    </div>
+  </div>
+  <div class="card">
+    <div class="image">
+      <img src="/images/avatar/large/jenny.jpg">
+    </div>
+  </div>
+  <div class="card">
+    <div class="image">
+      <img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa00-grav-default.png">
+    </div>
+  </div>
+  <div class="card">
+    <div class="image">
+      <img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa00-grav-default.png">
+    </div>
+  </div>
+  <div class="card">
+    <div class="image">
+      <img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa00-grav-default.png">
+    </div>
+  </div>
+</div>
+
+
+
+
+---
+
 <div class="ui six link stackable doubling cards">
 
   <div class="card">
