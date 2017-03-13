@@ -7,7 +7,7 @@ hide_git_repo_link: false
 
 <div class="ui five link stackable doubling cards">
 
-  <div class="four wide card">
+  <div class="card">
     <div class="image">
       <img class="abgc01" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa01-grav-tour.png">
     </div>
@@ -31,7 +31,7 @@ hide_git_repo_link: false
     </div>
   </div>
   
-  <div class="four wide card">
+  <div class="card">
     <div class="image">
       <img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa02-grav-features.png">
     </div>
@@ -55,7 +55,7 @@ hide_git_repo_link: false
     </div>
   </div>
   
-  <div class="four wide card">
+  <div class="card">
     <div class="image">
       <img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa00-grav-default.png">
     </div>
@@ -79,7 +79,7 @@ hide_git_repo_link: false
     </div>
   </div>
 
-  <div class="four wide card">
+  <div class="card">
     <div class="image">
       <img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/matthew.png">
     </div>
@@ -103,7 +103,7 @@ hide_git_repo_link: false
     </div>
   </div>
   
-  <div class="four wide card">
+  <div class="card">
     <div class="image">
       <img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/molly.png">
     </div>
@@ -127,7 +127,7 @@ hide_git_repo_link: false
     </div>
   </div>
   
-  <div class="four wide card">
+  <div class="card">
     <div class="image">
       <img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/elyse.png">
     </div>
@@ -151,7 +151,7 @@ hide_git_repo_link: false
     </div>
   </div>
   
-  <div class="four wide card">
+  <div class="card">
     <div class="image">
       <img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/elyse.png">
     </div>
