@@ -11,15 +11,34 @@ hide_git_repo_link: false
       <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/_01.png">
     </div>
     <div class="content">
-      <div class="header">Matt Giampietro</div>
+      <div class="header">Grav / Tour</div>
       <div class="meta">
         <a href="https://getgrav.org/">https://getgrav.org/</a>
       </div>
       <div class="description">
-        Matthew is an interior designer living in New York.
+        Build faster websites. Grav is a Modern open source flat file CMS
       </div>
     </div>
   </div>
+  
+  <div class="ui link cards">
+  <div class="card">
+    <div class="image">
+      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/_01.png">
+    </div>
+    <div class="content">
+      <div class="header">GRAV FEATURES</div>
+      <div class="meta">
+        Grav / Features
+      </div>
+      <div class="description">
+        Build faster websites. Grav is a Modern open source flat file CMS.
+        <p><a href="https://getgrav.org/">https://getgrav.org/</a></p>
+      </div>
+    </div>
+  </div>
+  
+  
   <div class="card">
     <div class="image">
       <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/molly.png">
