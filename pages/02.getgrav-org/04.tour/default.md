@@ -199,39 +199,22 @@ You can also install a wide range of modern themes with one-click
 {/assets}
 
 {assets:inline_css order:2}
-
-/***************************
-****************************
-Gris et patern de la page
-****************************
-***************************/
+ /*----------------------- Gris et patern de la page ------------------------------ */
 .abgc00 {background-color: #959595;}
 .abgc01 {background-color: #2A816D;}
 .abgc02 {background-color: #439A86;}
-
-/***************************
-****************************
-Niveaux de vert 01C777 (DaPulse)
-****************************
-***************************/
+ /*----------------------- Niveaux de vert 01C777 (DaPulse) ------------------------------ */
 .abgc11 {background-color: #007D4B;}
 .abgc12 {background-color: #00A060;}
 .abgc13 {background-color: #01C777;}
 .abgc14 {background-color: #2ACC8B;}
 .abgc15 {background-color: #52D6A1;}
-
-/***************************
-****************************
-Niveaux de Jaune FCAB3B (DaPulse)
-****************************
-***************************/
+ /*----------------------- Niveaux de Jaune FCAB3B (DaPulse) ------------------------------ */
 .abgc21 {background-color: #B36904;}
 .abgc22 {background-color: #EA8D0C;}
 .abgc23 {background-color: #FCAB3B;}
 .abgc24 {background-color: #FFBC5F;}
 .abgc25 {background-color: #FFCE89;}
 {/assets}
-
-
 
 
