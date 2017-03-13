@@ -19,15 +19,6 @@ hide_git_repo_link: false
         Matthew is an interior designer living in New York.
       </div>
     </div>
-    <div class="extra content">
-      <span class="right floated">
-        Joined in 2013
-      </span>
-      <span>
-        <i class="user icon"></i>
-        75 Friends
-      </span>
-    </div>
   </div>
   <div class="card">
     <div class="image">
