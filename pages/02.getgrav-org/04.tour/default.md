@@ -346,9 +346,13 @@ You can also install a wide range of modern themes with one-click
 {/assets}
 
 {assets:inline_css order:2}
-.abgc1 {background-color: #2A816D; min-height: 290px;}
-.abgc2 {background-color: #439A86; min-height: 290px;}
-.abgc3 {background-color: #6CA89A; min-height: 290px;}
+.abgc01 {background-color: #2A816D; min-height: 290px;}
+.abgc02 {background-color: #439A86; min-height: 290px;}
+.abgc11 {background-color: #055442; min-height: 290px;}
+.abgc12 {background-color: #176D5A; min-height: 290px;}
+.abgc13 {background-color: #2A816D; min-height: 290px;}
+.abgc14 {background-color: #469785; min-height: 290px;}
+.abgc15 {background-color: #73B7A8; min-height: 290px;}
 {/assets}
 
 
