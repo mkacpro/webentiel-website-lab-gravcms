@@ -7,7 +7,7 @@ hide_git_repo_link: false
 
 <div class="ui six stackable doubling cards">
 
-<a class="ui card" href="http://www.dog.com">
+<a href="http://www.dog.com">
   <div class="card">
     <div class="image">
       <img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa01-grav-tour.png">
