@@ -181,25 +181,6 @@ hide_git_repo_link: false
 
 <div class="ui three column grid stackable doubling">
 
-<a class="ui card" href="http://www.dog.com">
-  <div class="content">
-    <div class="header">Cute Dog</div>
-    <div class="meta">
-      <span class="category">Animals</span>
-    </div>
-    <div class="description">
-      <p></p>
-    </div>
-  </div>
-  <div class="extra content">
-    <div class="right floated author">
-      <img class="ui avatar image" src="/images/avatar/small/matt.jpg"> Matt
-    </div>
-  </div>
-</a>
-
-
-
   <div class="column">
     <div class="ui fluid card">
       <div class="image">
