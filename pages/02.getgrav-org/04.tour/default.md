@@ -8,7 +8,7 @@ hide_git_repo_link: false
 <div class="ui link cards">
 
   <div class="card">
-    <div class="image a-bgc1">
+    <div class="image abgc1">
       <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/grav-tour-white_01">
     </div>
     <div class="content">
@@ -346,5 +346,5 @@ You can also install a wide range of modern themes with one-click
 {/assets}
 
 {assets:inline_css}
-.a-bgc1 {color: background-color: rgb(153,102,153);}
+.abgc1 {background-color: #EC5D57;}
 {/assets}
