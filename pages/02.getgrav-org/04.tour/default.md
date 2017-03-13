@@ -28,6 +28,8 @@ hide_git_repo_link: false
 <a class="ui card" href="http://lab.webentiel.com/grav">
 <div class="image"><img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa07-grav-learn.png"></div><div class="content"><div class="header">LEARN</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
 
+</div>
+
 ---
 
 <div class="ui three column grid stackable doubling">
