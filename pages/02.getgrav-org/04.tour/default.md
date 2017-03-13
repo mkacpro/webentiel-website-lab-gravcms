@@ -30,7 +30,7 @@ hide_git_repo_link: false
 
 </div>
 
----
+<hr>
 
 <div class="ui three column grid stackable doubling">
 
@@ -201,14 +201,18 @@ You can also install a wide range of modern themes with one-click
 {assets:inline_css order:2}
 
 /***************************
+****************************
 Gris et patern de la page
+****************************
 ***************************/
 .abgc00 {background-color: #959595;}
 .abgc01 {background-color: #2A816D;}
 .abgc02 {background-color: #439A86;}
 
 /***************************
+****************************
 Niveaux de vert 01C777 (DaPulse)
+****************************
 ***************************/
 .abgc11 {background-color: #007D4B;}
 .abgc12 {background-color: #00A060;}
@@ -217,7 +221,9 @@ Niveaux de vert 01C777 (DaPulse)
 .abgc15 {background-color: #52D6A1;}
 
 /***************************
+****************************
 Niveaux de Jaune FCAB3B (DaPulse)
+****************************
 ***************************/
 .abgc21 {background-color: #B36904;}
 .abgc22 {background-color: #EA8D0C;}
