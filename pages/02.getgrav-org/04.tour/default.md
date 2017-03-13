@@ -9,7 +9,7 @@ hide_git_repo_link: false
 
   <div class="card">
     <div class="image">
-      <img class="abgc1" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/grav-tour-white_01">
+      <img class="abgc1" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa01-grav-tour.png">
     </div>
     <div class="content">
       <div class="header">TOUR</div>
