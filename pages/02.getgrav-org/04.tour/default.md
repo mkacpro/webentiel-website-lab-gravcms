@@ -208,16 +208,16 @@ Gris et patern de la page
 .abgc02 {background-color: #439A86;}
 
 /***************************
-Niveaux de vert 2A816D
+Niveaux de vert 01C777 (DaPulse)
 ***************************/
-.abgc11 {background-color: #055442;}
-.abgc12 {background-color: #176D5A;}
-.abgc13 {background-color: #2A816D;}
-.abgc14 {background-color: #469785;}
-.abgc15 {background-color: #73B7A8;}
+.abgc11 {background-color: #007D4B;}
+.abgc12 {background-color: #00A060;}
+.abgc13 {background-color: #01C777;}
+.abgc14 {background-color: #2ACC8B;}
+.abgc15 {background-color: #52D6A1;}
 
 /***************************
-Niveaux de Jaune FCAB3B
+Niveaux de Jaune FCAB3B (DaPulse)
 ***************************/
 .abgc21 {background-color: #B36904;}
 .abgc22 {background-color: #EA8D0C;}
