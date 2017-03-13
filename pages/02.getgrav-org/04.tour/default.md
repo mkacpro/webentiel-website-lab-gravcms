@@ -20,15 +20,11 @@ hide_git_repo_link: false
     </div>
     
     <div class="meta">
-      <span class="category">Animals</span>
+      <span class="category">TOUR</span>
     </div>
-    
-    <div class="image">
-      <img class="abgc01" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa01-grav-tour.png">
-    </div>    
-    
+     
     <div class="description">
-      <p></p>
+        Matthew is an interior designer living in New York.
     </div>
    
   </div>
