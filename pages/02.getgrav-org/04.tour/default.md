@@ -8,20 +8,33 @@ hide_git_repo_link: false
 <div class="ui six stackable doubling cards">
 
 <a class="ui card" href="http://www.dog.com">
+
   <div class="content">
-    <div class="header">Cute Dog</div>
+  
+    <div class="header">
+    Cute Dog
+    </div>
+    
     <div class="meta">
       <span class="category">Animals</span>
     </div>
+    
+    <div class="image">
+      <img class="abgc01" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa01-grav-tour.png">
+    </div>    
+    
     <div class="description">
       <p></p>
     </div>
+   
   </div>
+  
   <div class="extra content">
     <div class="right floated author">
       <img class="ui avatar image" src="/images/avatar/small/matt.jpg"> Matt
     </div>
   </div>
+  
 </a>
 
 
