@@ -346,6 +346,6 @@ You can also install a wide range of modern themes with one-click
 {/assets}
 
 {assets:inline_css order:2}
-.abgc2 {background-color: #2A816D; min-height: 290px;}
-.abgc1 {background-color: #439A86; min-height: 290px;}
+.abgc2 {background-color: #439A86; min-height: 290px;}
+.abgc1 {background-color: #2A816D; min-height: 290px;}
 {/assets}
