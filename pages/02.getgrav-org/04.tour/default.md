@@ -6,20 +6,176 @@ hide_git_repo_link: false
 # GRAV - Modern open source flat-file CMS
 
 <div class="ui link cards">
+
   <div class="card">
     <div class="image">
-      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/_01.png">
+      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/matthew.png">
     </div>
     <div class="content">
-      <div class="header">Grav / Tour</div>
+      <div class="header">TOUR</div>
       <div class="meta">
-        <a href="https://getgrav.org/">https://getgrav.org/</a>
+        <a>Friends</a>
       </div>
       <div class="description">
-        Build faster websites. Grav is a Modern open source flat file CMS
+        Matthew is an interior designer living in New York.
       </div>
     </div>
+    <div class="extra content">
+      <span class="right floated">
+        Joined in 2013
+      </span>
+      <span>
+        <i class="user icon"></i>
+        75 Friends
+      </span>
+    </div>
   </div>
+  
+  <div class="card">
+    <div class="image">
+      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/molly.png">
+    </div>
+    <div class="content">
+      <div class="header">FEATURES</div>
+      <div class="meta">
+        <span class="date">Coworker</span>
+      </div>
+      <div class="description">
+        Molly is a personal assistant living in Paris.
+      </div>
+    </div>
+    <div class="extra content">
+      <span class="right floated">
+        Joined in 2011
+      </span>
+      <span>
+        <i class="user icon"></i>
+        35 Friends
+      </span>
+    </div>
+  </div>
+  
+  <div class="card">
+    <div class="image">
+      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/elyse.png">
+    </div>
+    <div class="content">
+      <div class="header">BLOG</div>
+      <div class="meta">
+        <a>Coworker</a>
+      </div>
+      <div class="description">
+        Elyse is a copywriter working in New York.
+      </div>
+    </div>
+    <div class="extra content">
+      <span class="right floated">
+        Joined in 2014
+      </span>
+      <span>
+        <i class="user icon"></i>
+        151 Friends
+      </span>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="image">
+      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/matthew.png">
+    </div>
+    <div class="content">
+      <div class="header">FORUM</div>
+      <div class="meta">
+        <a>Friends</a>
+      </div>
+      <div class="description">
+        Matthew is an interior designer living in New York.
+      </div>
+    </div>
+    <div class="extra content">
+      <span class="right floated">
+        Joined in 2013
+      </span>
+      <span>
+        <i class="user icon"></i>
+        75 Friends
+      </span>
+    </div>
+  </div>
+  
+  <div class="card">
+    <div class="image">
+      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/molly.png">
+    </div>
+    <div class="content">
+      <div class="header">DOWNLOADS</div>
+      <div class="meta">
+        <span class="date">Coworker</span>
+      </div>
+      <div class="description">
+        Molly is a personal assistant living in Paris.
+      </div>
+    </div>
+    <div class="extra content">
+      <span class="right floated">
+        Joined in 2011
+      </span>
+      <span>
+        <i class="user icon"></i>
+        35 Friends
+      </span>
+    </div>
+  </div>
+  
+  <div class="card">
+    <div class="image">
+      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/elyse.png">
+    </div>
+    <div class="content">
+      <div class="header">ABOUT</div>
+      <div class="meta">
+        <a>Coworker</a>
+      </div>
+      <div class="description">
+        Elyse is a copywriter working in New York.
+      </div>
+    </div>
+    <div class="extra content">
+      <span class="right floated">
+        Joined in 2014
+      </span>
+      <span>
+        <i class="user icon"></i>
+        151 Friends
+      </span>
+    </div>
+  </div>
+  
+  <div class="card">
+    <div class="image">
+      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/elyse.png">
+    </div>
+    <div class="content">
+      <div class="header">LEARN</div>
+      <div class="meta">
+        <a>Coworker</a>
+      </div>
+      <div class="description">
+        Elyse is a copywriter working in New York.
+      </div>
+    </div>
+    <div class="extra content">
+      <span class="right floated">
+        Joined in 2014
+      </span>
+      <span>
+        <i class="user icon"></i>
+        151 Friends
+      </span>
+    </div>
+  </div>
+  
+</div>
   
 ---
 
