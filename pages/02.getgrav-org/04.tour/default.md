@@ -5,14 +5,11 @@ hide_git_repo_link: false
 
 # GRAV - Modern open source flat-file CMS
 
-![](_01.png)
-
-
 <div class="ui link cards">
 
   <div class="card">
     <div class="image">
-      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/matthew.png">
+      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/matthew.png">
     </div>
     <div class="content">
       <div class="header">TOUR</div>
@@ -36,7 +33,7 @@ hide_git_repo_link: false
   
   <div class="card">
     <div class="image">
-      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/molly.png">
+      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/molly.png">
     </div>
     <div class="content">
       <div class="header">FEATURES</div>
@@ -60,7 +57,7 @@ hide_git_repo_link: false
   
   <div class="card">
     <div class="image">
-      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/elyse.png">
+      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/elyse.png">
     </div>
     <div class="content">
       <div class="header">BLOG</div>
@@ -84,7 +81,7 @@ hide_git_repo_link: false
 
   <div class="card">
     <div class="image">
-      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/matthew.png">
+      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/matthew.png">
     </div>
     <div class="content">
       <div class="header">FORUM</div>
@@ -108,7 +105,7 @@ hide_git_repo_link: false
   
   <div class="card">
     <div class="image">
-      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/molly.png">
+      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/molly.png">
     </div>
     <div class="content">
       <div class="header">DOWNLOADS</div>
@@ -132,7 +129,7 @@ hide_git_repo_link: false
   
   <div class="card">
     <div class="image">
-      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/elyse.png">
+      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/elyse.png">
     </div>
     <div class="content">
       <div class="header">ABOUT</div>
@@ -156,7 +153,7 @@ hide_git_repo_link: false
   
   <div class="card">
     <div class="image">
-      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/elyse.png">
+      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/elyse.png">
     </div>
     <div class="content">
       <div class="header">LEARN</div>
@@ -206,7 +203,7 @@ hide_git_repo_link: false
   <div class="column">
     <div class="ui fluid card">
       <div class="image">
-        <a href="/grav/getgrav-org/tour" target="_parent"><img src="/grav/user/pages/02.getgrav-org/_01.png"></a>
+        <a href="/grav/getgrav-org/tour" target="_parent"><img src="/grav/user/pages/02.getgrav-org/04.tour/_01.png"></a>
       </div>
       <div class="content">
         <a class="header" href="/grav/getgrav-org">Build Faster Websites</a>
