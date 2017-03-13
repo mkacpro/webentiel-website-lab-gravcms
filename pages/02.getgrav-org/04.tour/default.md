@@ -8,8 +8,8 @@ hide_git_repo_link: false
 <div class="ui link cards">
 
   <div class="card">
-    <div class="image abgc1">
-      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/grav-tour-white_01">
+    <div class="image">
+      <img class="abgc1" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/grav-tour-white_01">
     </div>
     <div class="content">
       <div class="header">TOUR</div>
