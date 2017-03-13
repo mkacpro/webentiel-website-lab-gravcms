@@ -31,7 +31,7 @@ hide_git_repo_link: false
   </div>
   <div class="card">
     <div class="image">
-      <img src="molly.png">
+      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/molly.png">
     </div>
     <div class="content">
       <div class="header">Molly</div>
@@ -54,7 +54,7 @@ hide_git_repo_link: false
   </div>
   <div class="card">
     <div class="image">
-      <img src="elyse.png">
+      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/elyse.png">
     </div>
     <div class="content">
       <div class="header">Elyse</div>
