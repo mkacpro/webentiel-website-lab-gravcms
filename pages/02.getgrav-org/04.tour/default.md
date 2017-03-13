@@ -8,10 +8,10 @@ hide_git_repo_link: false
 <div class="ui five stackable doubling cards">
 
 <a class="ui card" href="http://lab.webentiel.com/grav">
-<div class="image"><img class="abgc01" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa01-grav-tour.png"></div><div class="content"><div class="header">TOUR</div><div class="meta"><span class="category">Grav / Tour</span></div><div class="description">Matthew is an interior designer living in New York.</div></div></a>
+<div class="image"><img class="abgc13" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa01-grav-tour.png"></div><div class="content"><div class="header">TOUR</div><div class="meta"><span class="category">Grav / Tour</span></div><div class="description">Matthew is an interior designer living in New York.</div></div></a>
 
 <a class="ui card" href="http://lab.webentiel.com/grav">
-<div class="image"><img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa02-grav-features.png"></div><div class="content"><div class="header">FEATURES</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
+<div class="image"><img class="abgc14" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa02-grav-features.png"></div><div class="content"><div class="header">FEATURES</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
 
 <a class="ui card" href="http://lab.webentiel.com/grav">
 <div class="image"><img class="abgc23" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa03-grav-blog.png"></div><div class="content"><div class="header">BLOG</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
