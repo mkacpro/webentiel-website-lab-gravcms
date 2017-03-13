@@ -7,7 +7,8 @@ hide_git_repo_link: false
 
 <div class="ui six stackable doubling cards">
 
-  <div class="card">
+<a class="ui card" href="http://www.dog.com">
+  <div class="content">
     <div class="image">
       <img class="abgc01" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa01-grav-tour.png">
     </div>
@@ -21,6 +22,7 @@ hide_git_repo_link: false
       </div>
     </div>
   </div>
+  </a>
   
   <div class="card">
     <div class="image">
