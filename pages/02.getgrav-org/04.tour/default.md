@@ -113,6 +113,8 @@ hide_git_repo_link: false
   
 </div>
 
+---
+
 [![TOUR](_01.png)](https://getgrav.org/)
 [![FEATURES](_02.png)](https://getgrav.org/features/)
 [![BLOG](_03.png)](https://getgrav.org/blog/)
