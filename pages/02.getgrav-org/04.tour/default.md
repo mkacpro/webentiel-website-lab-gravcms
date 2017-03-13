@@ -345,6 +345,6 @@ You can also install a wide range of modern themes with one-click
 //cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.9/semantic.js
 {/assets}
 
-{assets:inline_css}
+{assets:inline_css order:2}
 .abgc1 {background-color: #EC5D57;}
 {/assets}
