@@ -13,7 +13,7 @@ hide_git_repo_link: false
     <div class="content">
       <div class="header">Matt Giampietro</div>
       <div class="meta">
-        <a>Friends</a>
+        <a href="https://getgrav.org/">https://getgrav.org/</a>
       </div>
       <div class="description">
         Matthew is an interior designer living in New York.
