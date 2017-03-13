@@ -14,126 +14,22 @@ hide_git_repo_link: false
 <div class="image"><img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa02-grav-features.png"></div><div class="content"><div class="header">FEATURES</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
 
 <a class="ui card" href="http://lab.webentiel.com/grav">
-<div class="image"><img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa04-grav-blog.png"></div><div class="content"><div class="header">BLOG</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
+<div class="image"><img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa03-grav-blog.png"></div><div class="content"><div class="header">BLOG</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
 
 <a class="ui card" href="http://lab.webentiel.com/grav">
-<div class="image"><img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa05-grav-forum.png"></div><div class="content"><div class="header">FORUM</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
-
-
----
-
-
-
+<div class="image"><img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa04-grav-forum.png"></div><div class="content"><div class="header">FORUM</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
 
 <a class="ui card" href="http://lab.webentiel.com/grav">
-<div class="image"><img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa00-grav-default.png"></div><div class="content"><div class="header">LOREM</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
+<div class="image"><img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa05-grav-downloads.png"></div><div class="content"><div class="header">DOWNLOADS</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
 
 <a class="ui card" href="http://lab.webentiel.com/grav">
-<div class="image"><img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa00-grav-default.png"></div><div class="content"><div class="header">LOREM</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
+<div class="image"><img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa06-grav-about.png"></div><div class="content"><div class="header">ABOUT</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
 
 <a class="ui card" href="http://lab.webentiel.com/grav">
-<div class="image"><img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa00-grav-default.png"></div><div class="content"><div class="header">LOREM</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
+<div class="image"><img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa07-grav-learn.png"></div><div class="content"><div class="header">LEARN</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
 
 
   
-
-  <div class="card">
-    <div class="image">
-      <img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/matthew.png">
-    </div>
-    <div class="content">
-      <div class="header">FORUM</div>
-      <div class="meta">
-        <a>Friends</a>
-      </div>
-      <div class="description">
-        Matthew is an interior designer living in New York.
-      </div>
-    </div>
-    <div class="extra content">
-      <span class="right floated">
-        Joined in 2013
-      </span>
-      <span>
-        <i class="user icon"></i>
-        75 Friends
-      </span>
-    </div>
-  </div>
-  
-  <div class="card">
-    <div class="image">
-      <img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/molly.png">
-    </div>
-    <div class="content">
-      <div class="header">DOWNLOADS</div>
-      <div class="meta">
-        <span class="date">Coworker</span>
-      </div>
-      <div class="description">
-        Molly is a personal assistant living in Paris.
-      </div>
-    </div>
-    <div class="extra content">
-      <span class="right floated">
-        Joined in 2011
-      </span>
-      <span>
-        <i class="user icon"></i>
-        35 Friends
-      </span>
-    </div>
-  </div>
-  
-  <div class="card">
-    <div class="image">
-      <img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/elyse.png">
-    </div>
-    <div class="content">
-      <div class="header">ABOUT</div>
-      <div class="meta">
-        <a>Coworker</a>
-      </div>
-      <div class="description">
-        Elyse is a copywriter working in New York.
-      </div>
-    </div>
-    <div class="extra content">
-      <span class="right floated">
-        Joined in 2014
-      </span>
-      <span>
-        <i class="user icon"></i>
-        151 Friends
-      </span>
-    </div>
-  </div>
-  
-  <div class="card">
-    <div class="image">
-      <img class="abgc02" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/elyse.png">
-    </div>
-    <div class="content">
-      <div class="header">LEARN</div>
-      <div class="meta">
-        <a>Coworker</a>
-      </div>
-      <div class="description">
-        Elyse is a copywriter working in New York.
-      </div>
-    </div>
-    <div class="extra content">
-      <span class="right floated">
-        Joined in 2014
-      </span>
-      <span>
-        <i class="user icon"></i>
-        151 Friends
-      </span>
-    </div>
-  </div>
-  
-</div>
   
 ---
 
