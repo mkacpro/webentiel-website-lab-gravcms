@@ -33,7 +33,7 @@ hide_git_repo_link: false
   
   <div class="card">
     <div class="image">
-      <img class="abgc1" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa02-grav-features.png">
+      <img class="abgc2" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa02-grav-features.png">
     </div>
     <div class="content">
       <div class="header">FEATURES</div>
@@ -346,5 +346,6 @@ You can also install a wide range of modern themes with one-click
 {/assets}
 
 {assets:inline_css order:2}
+.abgc2 {background-color: #2A816D; min-height: 290px;}
 .abgc1 {background-color: #439A86; min-height: 290px;}
 {/assets}
