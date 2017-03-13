@@ -221,4 +221,7 @@ You can also install a wide range of modern themes with one-click
 .abgc25 {background-color: #FFCE89;}
 {/assets}
 
+{assets:inline_js order:2}
+{/assets}
+
 
