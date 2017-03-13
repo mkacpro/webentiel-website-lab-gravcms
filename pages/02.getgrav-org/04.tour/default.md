@@ -10,7 +10,7 @@ hide_git_repo_link: false
 <div class="ui link cards">
   <div class="card">
     <div class="image">
-      <img src="matthew.png">
+      <img src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/matthew.png">
     </div>
     <div class="content">
       <div class="header">Matt Giampietro</div>
