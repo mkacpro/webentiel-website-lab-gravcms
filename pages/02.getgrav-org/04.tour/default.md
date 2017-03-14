@@ -3,133 +3,27 @@ title: 'getgrav.org / TOUR'
 hide_git_repo_link: false
 ---
 
-# GRAV - Modern open source flat-file CMS
-
-## SUPER EASY TO USE
-
-### The Grav admin plugin provides a simple and intuitive interface to make configuration and content creation easy and enjoyable.
-
-<a href="/downloads/plugins" class="button button-solid button-fancy">
-Get Admin Plugin
-</a>
-
-![](001-dashboard.png)
-The Grav Admin dashboard provides a quick glance at your site state 
-
-![](002-config.png)
-Easily modify Grav's flexible configuration settings with its advanced forms
-
-![](003-editpage.png)
-Editing content is a breeze with Grav's powerful markdown editor
-
-![](004-user.png)
-Changing your administrator information is quick and easy
-
-![](005-plugins.png)
-Grav has a built in package manager with one-click install for plugins
-
-![](006-themes.png)
-You can also install a wide range of modern themes with one-click
-
----
-
-[![TOUR](_01.png)](https://getgrav.org/)
-[![FEATURES](_02.png)](https://getgrav.org/features/)
-[![BLOG](_03.png)](https://getgrav.org/blog/)
-[![FORUM](_04.png)](https://getgrav.org/forum/)
-[![DOWNLOADS](_05.png)](https://getgrav.org/downloads/)
-[![ABOUT](_06.png)](https://getgrav.org/about/)
-[![LEARN](_07.png)](https://learn.getgrav.org/)
-
----
-
-## BUILD FASTER WEBSITES
-### Grav is a modern open source flat-file CMS
-
-<a class="button button-outline button-fancy2" href="/downloads">Get Grav</a>
-
-STABLE VERSION 1.1.17 NEW! UPDATED 3 WEEKS AGO • CHANGELOG
-
----
-
-- [WHY GRAV](https://getgrav.org/#why_grav) 
-- [EASY](https://getgrav.org/#easy) 
-- [DEVELOPERS](https://getgrav.org/#developers) 
-- [FEATURES](https://getgrav.org/#features) 
-- [PROS](https://getgrav.org/#pros) 
-- [COMMUNITY](https://getgrav.org/#community) 
-- [LIMITLESS](https://getgrav.org/#limitless) 
-- [BUILT](https://getgrav.org/#built)
-
----
-
-## WHY CHOOSE GRAV?
-
-![](best-open-source-cms.png)
-
-- Grav is an award winning CMS platform
-- Voted "Best Open Source CMS" in 2016
-
-![](fast.png)   
-Performance is not just an afterthought, we baked it in from the start*
-
-![](extensible.png)   
-Grav has a powerful API and sophisticated Package Manager to make it super flexible
-
-![](open-source.png)   
-Grav is Open Source, and all the code is available on GitHub.com
-
-
----
-
-## SUPER EASY TO USE
-
-### The Grav admin plugin provides a simple and intuitive interface to make configuration and content creation easy and enjoyable.
-
-<a href="/downloads/plugins" class="button button-solid button-fancy">
-Get Admin Plugin
-</a>
-
-![](001-dashboard.png)
-The Grav Admin dashboard provides a quick glance at your site state 
-
-![](002-config.png)
-Easily modify Grav's flexible configuration settings with its advanced forms
-
-![](003-editpage.png)
-Editing content is a breeze with Grav's powerful markdown editor
-
-![](004-user.png)
-Changing your administrator information is quick and easy
-
-![](005-plugins.png)
-Grav has a built in package manager with one-click install for plugins
-
-![](006-themes.png)
-You can also install a wide range of modern themes with one-click
+# GRAV / Tour
 
 <div class="ui five stackable doubling cards">
 
-<a class="ui card" href="http://lab.webentiel.com/grav">
-<div class="image"><img class="abgc00" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa01-grav-tour.png"></div><div class="content"><div class="header">TOUR</div><div class="meta"><span class="category">Grav / Tour</span></div><div class="description">Matthew is an interior designer living in New York.</div></div></a>
+<a class="ui card" href="#">
+<div class="image"><img class="abgc00" src="/grav/user/pages/02.getgrav-org/04.tour/wa00-grav-default.png"></div><div class="content"><div class="header">WHY GRAV</div><div class="meta"><span class="category">Grav / Tour</span></div><div class="description">Why choose Grav&#160;?</div></div></a>
 
-<a class="ui card" href="http://lab.webentiel.com/grav">
-<div class="image"><img class="abgc00" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa02-grav-features.png"></div><div class="content"><div class="header">FEATURES</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
+<a class="ui card" href="xxxxxxxxxxxxxxxx">
+<div class="image"><img class="abgc00" src="xxxxxxxxxxxxxxxx"></div><div class="content"><div class="header">xxxxxxxxxxxxxxxx</div><div class="meta"><span class="category">Grav / Tour</span></div><div class="description">Mxxxxxxxxxxxxxxxx</div></div></a>
 
-<a class="ui card" href="http://lab.webentiel.com/grav">
-<div class="image"><img class="abgc00" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa03-grav-blog.png"></div><div class="content"><div class="header">BLOG</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
+<a class="ui card" href="xxxxxxxxxxxxxxxx">
+<div class="image"><img class="abgc00" src="xxxxxxxxxxxxxxxx"></div><div class="content"><div class="header">xxxxxxxxxxxxxxxx</div><div class="meta"><span class="category">Grav / Tour</span></div><div class="description">Mxxxxxxxxxxxxxxxx</div></div></a>
 
-<a class="ui card" href="http://lab.webentiel.com/grav">
-<div class="image"><img class="abgc00" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa04-grav-forum.png"></div><div class="content"><div class="header">FORUM</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
+<a class="ui card" href="xxxxxxxxxxxxxxxx">
+<div class="image"><img class="abgc00" src="xxxxxxxxxxxxxxxx"></div><div class="content"><div class="header">xxxxxxxxxxxxxxxx</div><div class="meta"><span class="category">Grav / Tour</span></div><div class="description">Mxxxxxxxxxxxxxxxx</div></div></a>
 
-<a class="ui card" href="http://lab.webentiel.com/grav">
-<div class="image"><img class="abgc00" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa05-grav-downloads.png"></div><div class="content"><div class="header">DOWNLOADS</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
+<a class="ui card" href="xxxxxxxxxxxxxxxx">
+<div class="image"><img class="abgc00" src="xxxxxxxxxxxxxxxx"></div><div class="content"><div class="header">xxxxxxxxxxxxxxxx</div><div class="meta"><span class="category">Grav / Tour</span></div><div class="description">Mxxxxxxxxxxxxxxxx</div></div></a>
 
-<a class="ui card" href="http://lab.webentiel.com/grav">
-<div class="image"><img class="abgc00" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa06-grav-about.png"></div><div class="content"><div class="header">ABOUT</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
-
-<a class="ui card" href="http://lab.webentiel.com/grav">
-<div class="image"><img class="abgc00" src="http://lab.webentiel.com/grav/user/pages/02.getgrav-org/04.tour/wa07-grav-learn.png"></div><div class="content"><div class="header">LEARN</div><div class="meta"><span class="category">Grav / Lorem</span></div><div class="description">Lorem Ipsum.</div></div></a>
+<a class="ui card" href="xxxxxxxxxxxxxxxx">
+<div class="image"><img class="abgc00" src="xxxxxxxxxxxxxxxx"></div><div class="content"><div class="header">xxxxxxxxxxxxxxxx</div><div class="meta"><span class="category">Grav / Tour</span></div><div class="description">Mxxxxxxxxxxxxxxxx</div></div></a>
 
 </div>
 
