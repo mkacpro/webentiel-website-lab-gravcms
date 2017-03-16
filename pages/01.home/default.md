@@ -3,7 +3,7 @@ title: Home
 hide_git_repo_link: false
 ---
 
-## GRAV - Modern open source flat-file CMS
+## GRAV - Modern open source flat-file CMSU
 
 ### What is Grav ?
 
